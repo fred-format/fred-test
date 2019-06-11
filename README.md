@@ -33,12 +33,17 @@ FRED Data
 People (visible=1) [
     Person {
         name : "Richard"
-        birth-date : 1997-10-27T12:32:45Z
+        birth-date : 1997-12-08T12:32:45Z
         age : 21
     }
     Person {
         name : "Lucas"
         birth-date : 1997-08-07T02:46:15Z
+        age : 21
+    }
+    Person {
+        name : "Alax"
+        birth-date : 1997-12-06T02:46:15Z
         age : 21
     }
 ]
@@ -57,7 +62,7 @@ JSON Data encoded
             "type" : "object",
             "value" : {
                 "name" : {"tag" : null, "meta" : null, "type" : "string", "value" : "Richard"},
-                "birth-date" : {"tag" : null, "meta" : null,"type" : "date", "value" : "1997-10-27T12:32:45Z"},
+                "birth-date" : {"tag" : null, "meta" : null,"type" : "date", "value" : "1997-12-08T12:32:45Z"},
                 "age" : { "tag" : null, "meta" : null, "type" : "string", "value" : "21"}
             }
         },
@@ -68,6 +73,16 @@ JSON Data encoded
             "value" : {
                 "name" : {"tag" : null, "meta" : null, "type" : "string", "value" : "Lucas"},
                 "birth-date" : {"tag" : null, "meta" : null,"type" : "date", "value" : "1997-08-07T02:46:15Z"},
+                "age" : { "tag" : null, "meta" : null, "type" : "string", "value" : "21"}
+            }
+        }
+        {
+            "tag" : "Person", 
+            "meta" : null, 
+            "type" : "object",
+            "value" : {
+                "name" : {"tag" : null, "meta" : null, "type" : "string", "value" : "Alax"},
+                "birth-date" : {"tag" : null, "meta" : null,"type" : "date", "value" : "1997-12-06T02:46:15Z"},
                 "age" : { "tag" : null, "meta" : null, "type" : "string", "value" : "21"}
             }
         }
