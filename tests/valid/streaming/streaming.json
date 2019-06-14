@@ -1,0 +1,35 @@
+[
+    {
+        "tag": "person",
+        "meta": null,
+        "type": "string",
+        "value": {
+            "tag": null,
+            "meta": null,
+            "type": "string",
+            "value": "Jhon"
+        }
+    },
+    {
+        "tag": "person",
+        "meta": null,
+        "type": "string",
+        "value": {
+            "tag": null,
+            "meta": null,
+            "type": "string",
+            "value": "Mary"
+        }
+    },
+    {
+        "tag": "person",
+        "meta": null,
+        "type": "string",
+        "value": {
+            "tag": null,
+            "meta": null,
+            "type": "string",
+            "value": "James"
+        }
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "tag": null,
+    "meta": null,
+    "type": "object",
+    "value": {
+        "key": {
+            "tag": null,
+            "meta": null,
+            "type": "bool",
+            "value": "true"
+        },
+        "key1": {
+            "tag": null,
+            "meta": null,
+            "type": "bool",
+            "value": "false"
+        }
+    }
+}

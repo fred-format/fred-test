@@ -24,7 +24,7 @@ Parsers should accept these documents and also output the expected JSON. This ou
         * ``[{nameMeta : valueMeta}, {}, ...]``
         * nameMeta is a JSON String representing the metaName
         * valueMeta is ``{ "type": typeName, "value": value }``
-
+* FRED Documents in streaming mode are represented as a JSON Array
 
 ### Example of JSON encoding
 

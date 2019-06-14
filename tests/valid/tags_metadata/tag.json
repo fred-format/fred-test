@@ -1,0 +1,9 @@
+{
+    "tag" : "person", 
+    "meta" : null, 
+    "type" : "object", 
+    "value" : {
+        "name" : {"tag" : null, "meta" : null, "type" : "string", "value" : "eric"},
+        "age" : {"tag" : null, "meta" : null, "type" : "datetime", "value" : "25"}
+    }
+}
