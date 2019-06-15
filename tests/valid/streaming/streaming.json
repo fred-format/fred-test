@@ -1,35 +1,17 @@
 [
     {
         "tag": "person",
-        "meta": null,
-        "type": "string",
-        "value": {
-            "tag": null,
-            "meta": null,
-            "type": "string",
-            "value": "Jhon"
-        }
+        "value": "Jhon",
+        "meta": null
     },
     {
         "tag": "person",
-        "meta": null,
-        "type": "string",
-        "value": {
-            "tag": null,
-            "meta": null,
-            "type": "string",
-            "value": "Mary"
-        }
+        "value": "Mary",
+        "meta": null
     },
     {
         "tag": "person",
-        "meta": null,
-        "type": "string",
-        "value": {
-            "tag": null,
-            "meta": null,
-            "type": "string",
-            "value": "James"
-        }
+        "value": "James",
+        "meta": null
     }
 ]

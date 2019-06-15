@@ -1,11 +1,7 @@
 {
     "tag": "tag",
+    "value": null,
     "meta": {
-        "attr": {
-            "type": "number",
-            "value": "1"
-        }
-    },
-    "type": null,
-    "value": null
+        "attr": "1"
+    }
 }

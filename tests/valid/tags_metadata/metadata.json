@@ -1,16 +1,7 @@
 {
     "tag": "phone",
+    "value": "32131123",
     "meta": {
-        "country": {
-            "type": "string",
-            "value": "Brazil"
-        }
-    },
-    "type": "object",
-    "value": {
-        "tag": null,
-        "meta": null,
-        "type": "string",
-        "value": "32131123"
+        "country": "Brazil"
     }
 }

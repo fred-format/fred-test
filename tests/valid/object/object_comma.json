@@ -1,19 +1,16 @@
 {
     "tag": null,
-    "meta": null,
-    "type": "object",
     "value": {
         "key": {
             "tag": null,
-            "meta": null,
-            "type": "bool",
-            "value": "true"
+            "value": "true",
+            "meta": null
         },
         "key1": {
             "tag": null,
-            "meta": null,
-            "type": "bool",
-            "value": "false"
+            "value": "false",
+            "meta": null
         }
-    }
+    },
+    "meta": null
 }
