@@ -1,10 +1,13 @@
 {
     "value": {
-        "key": {
-            "value": true
-        },
-        "key1": {
-            "value": false
+        "type": "object",
+        "value": {
+            "key": {
+                "value": true
+            },
+            "key1": {
+                "value": false
+            }
         }
     }
 }
