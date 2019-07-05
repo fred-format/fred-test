@@ -4,11 +4,11 @@
     "value": {
         "type": "object",
         "value": {
-            "age": {
-                "value": 25
-            },
             "name": {
                 "value": "eric"
+            },
+            "age": {
+                "value": 25
             }
         }
     }
