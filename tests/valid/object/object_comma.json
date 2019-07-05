@@ -1,6 +1,10 @@
 {
     "value": {
-        "key": true,
-        "key1": false
+        "key": {
+            "value": true
+        },
+        "key1": {
+            "value": false
+        }
     }
 }
