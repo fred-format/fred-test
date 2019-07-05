@@ -1,7 +1,7 @@
 {
     "tag": "tag",
-    "value": null,
     "meta": {
-        "attr": "1"
-    }
+        "attr": 1
+    },
+    "value": null
 }

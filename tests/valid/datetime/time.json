@@ -1,5 +1,6 @@
 {
-    "tag": null,
-    "value": "14:35:54.83",
-    "meta": null
+    "value": {
+        "type": "date",        
+        "value": "14:35:54.83"
+    }
 }

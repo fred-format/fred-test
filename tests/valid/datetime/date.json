@@ -1,5 +1,6 @@
 {
-    "tag": null,
-    "value": "1989-10-14",
-    "meta": null
+    "value": {
+        "type": "date",        
+        "value": "1989-10-14"
+    }
 }

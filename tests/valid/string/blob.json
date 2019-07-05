@@ -1,5 +1,6 @@
 {
-    "tag": null,
-    "value": "dffdtr54123asda1yhn7",
-    "meta": null
+    "value": {
+        "type": "blob",
+        "value": "dffdtr54123asda1yhn7"
+    }
 }

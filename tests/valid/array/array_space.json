@@ -1,9 +1,13 @@
 {
-    "tag": null,
     "value": [
-        "1",
-        "2",
-        "3"
-    ],
-    "meta": null
+        {
+            "value": 1
+        },
+        {
+            "value": 2
+        },
+        {
+            "value": 3
+        }
+    ]
 }

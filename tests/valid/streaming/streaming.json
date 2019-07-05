@@ -1,17 +1,17 @@
 [
     {
         "tag": "person",
-        "value": "Jhon",
-        "meta": null
+        "meta": null,
+        "value": "Jhon"
     },
     {
         "tag": "person",
-        "value": "Mary",
-        "meta": null
+        "meta": null,
+        "value": "Mary"
     },
     {
         "tag": "person",
-        "value": "James",
-        "meta": null
+        "meta": null,
+        "value": "James"
     }
 ]

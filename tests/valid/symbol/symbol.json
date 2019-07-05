@@ -1,5 +1,6 @@
 {
-    "tag": null,
-    "value": "var1",
-    "meta": null
+    "value": {
+        "type": "symbol",
+        "value": "var1"
+    }
 }

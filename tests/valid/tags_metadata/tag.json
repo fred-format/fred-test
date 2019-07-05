@@ -1,16 +1,15 @@
 {
     "tag": "person",
+    "meta": null,
     "value": {
-        "age": {
-            "tag": null,
-            "value": "25",
-            "meta": null
-        },
-        "name": {
-            "tag": null,
-            "value": "eric",
-            "meta": null
+        "type": "object",
+        "value": {
+            "age": {
+                "value": 25
+            },
+            "name": {
+                "value": "eric"
+            }
         }
-    },
-    "meta": null
+    }
 }
