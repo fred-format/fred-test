@@ -1,13 +1,7 @@
 {
+    "type": "object",
     "value": {
-        "type": "object",
-        "value": {
-            "key": {
-                "value": true
-            },
-            "key1": {
-                "value": false
-            }
-        }
+        "key": true,
+        "key1": false
     }
 }

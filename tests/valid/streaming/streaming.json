@@ -1,19 +1,17 @@
-{
-    "value": [
-        {
-            "tag": "person",
-            "meta": null,
-            "value": "Jhon"
-        },
-        {
-            "tag": "person",
-            "meta": null,
-            "value": "Mary"
-        },
-        {
-            "tag": "person",
-            "meta": null,
-            "value": "James"
-        }
-    ]
-}
+[
+    {
+        "tag": "person",
+        "meta": null,
+        "value": "Jhon"
+    },
+    {
+        "tag": "person",
+        "meta": null,
+        "value": "Mary"
+    },
+    {
+        "tag": "person",
+        "meta": null,
+        "value": "James"
+    }
+]

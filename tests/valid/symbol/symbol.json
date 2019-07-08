@@ -1,6 +1,4 @@
 {
-    "value": {
-        "type": "symbol",
-        "value": "var1"
-    }
+    "type": "symbol",
+    "value": "var1"
 }
