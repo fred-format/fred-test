@@ -1,7 +1,3 @@
----
-person "Jhon"
----
-person "Mary"
----
-person "James"
----
+#. person "Jhon"
+#. person "Mary"
+#. person "James"
